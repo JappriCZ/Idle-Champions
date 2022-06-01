@@ -1,0 +1,104 @@
+{
+	"Addon Order":[
+		{
+			"Name":"Addon Example",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"About",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Briv Gem Farm",
+			"Version":"v1.0.1"
+		},
+		{
+			"Name":"Chest Purchaser",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Effect Key Handlers Full Read",
+			"Version":"v1.0.1"
+		},
+		{
+			"Name":"Game Location Settings",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Jimothy",
+			"Version":"v1.0.2"
+		},
+		{
+			"Name":"Memory Functions",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Memory Functions Full Read",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Briv gem farm for Temporal Rift",
+			"Version":"v0.43."
+		},
+		{
+			"Name":"BrivGemFarm Advanced Settings",
+			"Version":"v0.1.0"
+		},
+		{
+			"Name":"Briv Gem Farm Stats",
+			"Version":"v1.0."
+		},
+		{
+			"Name":"Inventory View",
+			"Version":"v0.1."
+		},
+		{
+			"Name":"Briv Gem Farm Potato",
+			"Version":"v1.0.1"
+		}
+	],
+	"Briv Gem Farm":{
+		"Enabled":1,
+		"Version":"v1.0.1"
+	},
+	"Briv gem farm for Temporal Rift":{
+		"Enabled":1,
+		"Version":"v0.43."
+	},
+	"Briv Gem Farm Potato":{
+		"Enabled":1,
+		"Version":"v1.0.1"
+	},
+	"Briv Gem Farm Stats":{
+		"Enabled":1,
+		"Version":"v1.0."
+	},
+	"BrivGemFarm Advanced Settings":{
+		"Enabled":1,
+		"Version":"v0.1.0"
+	},
+	"Chest Purchaser":{
+		"Enabled":1,
+		"Version":"v0.1."
+	},
+	"Game Location Settings":{
+		"Enabled":1,
+		"Version":"v0.1."
+	},
+	"Inventory View":{
+		"Enabled":1,
+		"Version":"v0.1."
+	},
+	"Jimothy":{
+		"Enabled":1,
+		"Version":"v1.0.2"
+	},
+	"Memory Functions":{
+		"Enabled":1,
+		"Version":"v0.1."
+	},
+	"Memory Functions Full Read":{
+		"Enabled":1,
+		"Version":"v0.1."
+	}
+}
